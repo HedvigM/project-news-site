@@ -8,7 +8,7 @@ I'm happy with my project, and that i managed to finish at all, because this is 
 
 ## The problem
 
-I approached this project with efficiency in mind. I designed every part of the site before i started to code and i did every thing step by step in a decided order. I used a cat ipsum on every text snippet, if i had more time, maby i would cange so it would look more "real" regarding the text. And i would hade different pictures. 
+I approached this project with efficiency in mind. I designed every part of the site before i started to code and i did every thing step by step in a decided order. I used a cat ipsum on every text snippet, if i had more time, maby i would cange so it would look more "real" regarding the text. And i would have made some cool feature like a css animation.
 
 ## View it live
 https://dreamy-allen-7be780.netlify.app
